@@ -19,5 +19,5 @@ Welcome to the **AI Image Generator** repo, a Python-based app leveraging Stable
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/yourusername/ai-image-generator.git](https://github.com/aaditya-jagdale/image-generator.git)
+   git clone https://github.com/yourusername/ai-image-generator.git
    cd ai-image-generator
